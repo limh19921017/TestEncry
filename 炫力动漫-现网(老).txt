@@ -1,0 +1,22 @@
+﻿{
+cpId: "20171009144906",
+appId: "0000000120170825031000",
+cpUserId: "NJXJ2017",
+repeatOrderBaoyue: "1",
+orderContinueBaoyue: "1",
+chargingPointidBaoyue: "xuanjia001",
+rentTimeBaoyue: "30",
+itemNameBaoyue: "炫力动漫",
+itemCodeBaoyue: "123",
+privaceBaoyue: "2900",
+orderDescBaoyue: "{Describe:'炫力动漫是内容丰富的环球动画娱乐产品，
+涵盖国内外主流、经典的各类动漫节目。'}",
+packageName: "cn.xj.tvjoy.anhuixldm",
+reserveApp1: null,
+reserveApp2: null,
+reserveApp3: null,
+payCategory: "2",
+notifyUrl: "http://120.210.209.6:8092/Ahyd_Interface/account/notifyResult",
+notifyUrlCp: "http://120.210.209.6:8092/Ahyd_Interface/account/notifyResult",
+returnUrl: "http://120.210.209.6:8092/Ahyd_Interface/account/returnUrl"
+}
